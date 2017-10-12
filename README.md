@@ -1,0 +1,2 @@
+# Hyrax
+Hyrax is a runtime for rendering interactive graphics with JavaScript & Typescript. It provides powerful graphics APIs that based on the Skia graphics library, and the full access to native APIs, which enables developers to package the same code into native apps and deploy them across platforms.
